@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Transport Loads</string>
+    <string name="show_conditions"><u>terminos de uso</u></string>
+    <string name="show_conditions2"><u>y politicas de privacidad</u></string>
+</resources>
