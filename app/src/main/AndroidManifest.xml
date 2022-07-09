@@ -16,7 +16,7 @@
         <activity
             android:name=".Loginuser"
             android:exported="false"
-            android:theme="@style/ThemeSegundaActivity"
+            android:theme="@style/outlinedTextInputLayout"
             />
         <activity
             android:name=".TermsCondActivity"

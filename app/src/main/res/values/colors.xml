@@ -13,4 +13,7 @@
     <color name="rojo_pastel">#e2504c</color>
     <color name="rojo_pastel_fuerte">#c63637</color>
     <color name="colorBlancoOpacity">#cbf5f5f5</color>
+    <color name="mtrl_textinput_default_box_stroke_color" override="true">#fff</color>
+    <color name="bluer_pastel">#B2C8DF</color>
+
 </resources>
