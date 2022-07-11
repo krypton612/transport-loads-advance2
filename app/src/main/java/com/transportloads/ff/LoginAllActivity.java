@@ -8,7 +8,7 @@ import android.widget.ImageView;
 import com.airbnb.lottie.Lottie;
 import com.airbnb.lottie.LottieAnimationView;
 
-public class Loginuser extends AppCompatActivity {
+public class LoginAllActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

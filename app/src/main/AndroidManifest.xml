@@ -14,7 +14,7 @@
         android:theme="@style/Theme.Ff"
         tools:targetApi="31">
         <activity
-            android:name=".Loginuser"
+            android:name=".LoginAllActivity"
             android:exported="false"
             android:theme="@style/ThemeSegundaActivity"
             />

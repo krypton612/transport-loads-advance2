@@ -5,19 +5,13 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.util.Log;
-import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.Button;
-import android.widget.LinearLayout;
 import android.widget.TextView;
-import android.widget.Toast;
 
-import com.google.android.material.bottomsheet.BottomSheetDialog;
 import com.lxj.xpopup.XPopup;
 import com.lxj.xpopup.core.BasePopupView;
 import com.lxj.xpopup.enums.PopupAnimation;
-import com.transportloads.ff.custom_popup.PopupConditions;
 
 public class TermsCondActivity extends AppCompatActivity {
 
@@ -40,7 +34,7 @@ public class TermsCondActivity extends AppCompatActivity {
         aceptar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent inten = new Intent(TermsCondActivity.this, Loginuser.class);
+                Intent inten = new Intent(TermsCondActivity.this, LoginAllActivity.class);
                 startActivity(inten);
                 finish();
             }
